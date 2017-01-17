@@ -1,0 +1,132 @@
+@import 'http://fonts.googleapis.com/css?family=Inconsolata';
+@import 'http://fonts.googleapis.com/css?family=Open+Sans';
+
+.inline{
+    display: inline
+}
+.inline-flex{
+    display: inline-flex;
+}
+}
+.inline-block{
+    display: inline-block;
+}
+.block{
+    display: block;
+}
+.float-left{
+    float:left
+}
+.grid-3-10{
+    width: 19%
+}
+
+.grid-7-10{
+    /*width: 80%;*/
+    width: 500px;
+    cursor: pointer;
+}
+.content-item{
+    margin-top: 20px;
+    display: flex;
+    transition-delay: 1s;
+}
+/*.content-item:hover{
+    background-color: yellow;
+}*/
+.content-item:hover .type {
+    color: red;
+}
+.content-item:hover .type-green {
+    color: #0fc165;
+}
+.content-item:hover .type-red {
+    color: red;
+}
+.content-item:hover .type-blue {
+    color: #4d95c5;
+}
+.content-item:hover .type-yellow {
+    color: #f3cb2d;
+}
+
+.content-item:hover .description {
+    /*display: block;*/
+    opacity: 1;
+    visibility: visible;
+    margin-bottom: 35px;
+    height: auto;
+}
+
+div {
+    font-family: 'Inconsolata';
+    font-size: 12px;
+    /*border: 1px solid black;*/
+}
+
+
+.portofolio{
+    margin-top: 205px;
+    margin-left: 145px;
+    width: 50%;
+    animation: slidetop 2s, fadein 1s linear;
+}
+
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+@keyframes slidetop {
+    from { margin-top: 345px; }
+    to   { margin-top: 205px; }
+}
+
+
+.description{
+    margin-left: 15px;
+    visibility: hidden;
+    transition: visibility 0s, opacity 0.5s linear;
+    opacity: 0;
+    height: 0;
+}
+
+.title{
+    font-family: 'Open Sans';
+
+    margin-top: 8px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    font-size: 20px
+}
+.main-title{
+    font-family: 'Open Sans';
+
+    margin-bottom: 75px;
+    font-size: 20px
+}
+
+.year{
+    text-align: right;
+    padding-right: 90px;
+}
+
+
+@media screen and (max-width: 700px) {
+    .portofolio {
+        margin-left: 0 !important;
+        padding: 10px !important;
+        width: 100% !important;
+    }
+    .grid-3-10{
+        display: none!important;
+    }
+    .description{
+        margin-left: 0px!important;
+
+    }
+
+    .title{
+        margin-left: 0px!important;
+    }
+}
