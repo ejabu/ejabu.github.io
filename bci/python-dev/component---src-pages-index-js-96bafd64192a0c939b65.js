@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{RXBc:function(t,e,n){"use strict";n.r(e);n("q1tI");var c=n("qKvR");function o(){window.location.href="/bci/python-dev/showcase"}e.default=function(){return setTimeout(o,500),Object(c.c)("div",{style:{backgroundColor:"white",height:"100vh"}},Object(c.c)("span",null,"redirect"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-96bafd64192a0c939b65.js.map
