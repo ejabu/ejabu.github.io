@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{RXBc:function(e,t,c){"use strict";c.r(t);c("q1tI");var n=c("qKvR");function o(){window.location.href="/resume/full-stack/showcase"}t.default=function(){return setTimeout(o,500),Object(n.c)("div",{style:{backgroundColor:"white",height:"100vh"}},Object(n.c)("span",null,"redirect"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-89c3cca83a20ff34cda4.js.map
