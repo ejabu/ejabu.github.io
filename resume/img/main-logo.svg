@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="logo"
+   viewBox="0 0 60.000001 59.999999"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="main-logo.svg"
+   width="60"
+   height="60"
+   inkscape:export-filename="C:\dev\nextjs\ejabu-next-cv\public\img\main-logo2.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1009"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="3.2667021"
+     inkscape:cx="137.46034"
+     inkscape:cy="62.337268"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <g
+     transform="matrix(0.26535522,0,0,0.26535522,1.5050954,-9.4052502)"
+     id="g8">
+    <circle
+       cx="77.237999"
+       cy="148.5"
+       r="54.646"
+       fill="#84cfff"
+       id="circle2" />
+    <circle
+       cx="137.53"
+       cy="148.5"
+       r="54.646"
+       fill="#9eb7fb"
+       id="circle4" />
+    <path
+       transform="matrix(0.26458,0,0,0.26458,5.4479,93.854)"
+       d="m 385.28,34.275 a 206.53,206.53 0 0 0 -92.592,172.26 206.53,206.53 0 0 0 92.592,172.26 206.53,206.53 0 0 0 92.592,-172.26 206.53,206.53 0 0 0 -92.592,-172.26 z"
+       fill="#5bb0fe"
+       id="path6" />
+  </g>
+</svg>
